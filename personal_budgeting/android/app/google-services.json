@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382664905208",
+    "project_id": "personal-budgeting-ba817",
+    "storage_bucket": "personal-budgeting-ba817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382664905208:android:026d593b4c87e6cf57060d",
+        "android_client_info": {
+          "package_name": "com.example.personal_budgeting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC692YBmbhvXuTpdLLKSB-FzRea4dGBkCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
